@@ -71,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhureddywebdev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddywebdev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madhureddywebdev&show_icons=true&theme=github_dark&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=madhureddywebdev&layout=compact&theme=github_dark&cache_seconds=1800" height="170"/>
 </p>
 
 ---
