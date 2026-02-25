@@ -1,90 +1,91 @@
-## Hi there 👋
-🚀 Madhureddy – Full Stack MERN Developer
+<h1 align="center">Hi 👋, I'm Madhureddy</h1>
+<h3 align="center">🚀 Full Stack MERN Developer | Cloud & DevOps Enthusiast</h3>
 
-Hi there! 👋
-I’m a passionate Full Stack Developer specializing in modern web and mobile application development.
+<p align="center">
+  <a href="mailto:madhureddy.webdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-I help businesses and startups build scalable, secure, and high-performance applications using the latest technologies.
+---
 
-💻 Tech Stack & Skills
-🚀 Web Development
+## 💡 About Me
 
-MongoDB
+💻 Passionate Full Stack Developer specializing in modern web & mobile applications.  
+🚀 I help startups and businesses build **scalable, secure & high-performance solutions**.  
+🌍 Open to freelance projects and long-term collaborations.
 
-Express.js
+---
 
-React.js
+## 🛠️ Tech Stack
 
-Node.js
+### 🚀 Web Development
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-📱 Mobile Development
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-React Native
+### 🐳 DevOps & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge"/>
+</p>
 
-🐳 DevOps & Deployment
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
-Docker
+---
 
-Containerized Applications
+## 🔥 What I Can Do
 
-CI/CD Basics
+✔️ Full Stack Web Applications  
+✔️ REST API Development  
+✔️ Mobile App Development  
+✔️ Dockerized Deployments  
+✔️ AWS Hosting & S3 Setup  
+✔️ Server Configuration & Optimization  
 
-☁️ Cloud & Infrastructure
+---
 
-AWS (S3, EC2 – Basics)
+## 📈 Currently
 
-NGINX Configuration
+- 🔭 Building scalable MERN applications  
+- 🌱 Improving DevOps & Cloud architecture skills  
+- 🤝 Looking for freelance collaborations  
 
-Server Deployment
+---
 
-🔥 What I Can Help You With
+## 📊 GitHub Stats
 
-✔️ Full Stack Web Applications
-✔️ REST API Development
-✔️ Mobile App Development
-✔️ Application Deployment (Docker + AWS)
-✔️ Server Setup & Optimization
-✔️ Performance Optimization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhureddywebdev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddywebdev&layout=compact&theme=tokyonight" />
+</p>
 
-🎯 My Goal
+---
 
-To build efficient, scalable, and production-ready applications that solve real business problems.
+## ⭐ Why Work With Me?
 
-📬 Let’s Connect
+✅ Clean & Maintainable Code  
+✅ Scalable Architecture  
+✅ Timely Delivery  
+✅ Professional Communication  
 
-📧 Email: madhureddy.webdev@gmail.com
+---
 
-💼 LinkedIn: (Add your LinkedIn profile link here)
-📱 Open to freelance projects & collaborations
-
-⚡ Currently
-
-Open for Freelance Projects
-
-Building scalable MERN applications
-
-Improving DevOps & Cloud skills
-
-⭐ Why Work With Me?
-
-Clean & maintainable code
-
-Scalable architecture
-
-Timely delivery
-
-Professional communication
-<!--
-**madhureddywebdev/madhureddywebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 <b>Let's Build Something Amazing Together!</b>
+</p>
