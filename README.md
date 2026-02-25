@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Madhureddy</h1>
+<h1 align="center">Hi 👋, I'm Madhureddy (Freelancer) </h1>
 <h3 align="center">🚀 Full Stack MERN Developer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:madhureddy.webdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/madhu-reddy-6b21993b3/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
